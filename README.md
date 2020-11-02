@@ -1,2 +1,2 @@
-# hangman-game
-This is a game in react.
+# Hangman Game
+This is a hang man game created using react framework .
