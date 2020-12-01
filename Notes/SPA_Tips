@@ -1,0 +1,22 @@
+1=>	Always create a static version of the application  in single page frameworks.
+2=>	Then after creating the static version of the application focus upon the functionality dynamic properties or props.
+3=>	Keep the items which are to be used to fetch the list of the items or the records IN REDUX STORE.
+3=>	Use the api's which are used to create , update or delete operation in the database.
+4=>	Use container to child components structure to pass on the props to the child compoennts.
+5=>	Example Create a container component which will pass all the props to the child components as this will simplify the state
+	management in the single parent to child component.
+
+
+React -------------------------
+
+Adding dependency in the useEffect hooks ARRAY are very important which are being used in the application.
+
+//15/11/2020
+
+Watched Youtube video to convert a vanilla js project into react application.'
+https://www.youtube.com/watch?v=jj0W8tYX_q8&ab_channel=TraversyMedia
+
+1>	Revised react hooks in react application.
+2>	Learned to create static react website.
+3>	Learned using Reduce () to add a comma tag in bwteen srray of strings.
+4>	USed and learned container to state concept to send the props to the component.
